@@ -14,7 +14,7 @@ You need also [language-eu4](https://atom.io/packages/language-eu4) package to u
 
 ## Copyrights
 
-Copyright (c) 2019 FUN. Released under the MIT license.
+Copyright (c) 2020 FUN. Released under the MIT license.
 
 autocomplete-eu4 is based on [autocomplete-css](https://github.com/atom/autocomplete-css) by GitHub Inc.
 
